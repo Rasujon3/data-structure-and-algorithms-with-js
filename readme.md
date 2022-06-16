@@ -35,3 +35,10 @@
 - binary search tree - bame choto , dane boro thakbe. sorboccho 2ta children thakbe, tar beshi thakte parbe na.
 - depth search, breath search
 - graph - google map er moto, vertices, edge => short path
+
+# 6. Linear Search (ulta-tree, shikor)
+
+- kono ekta kaj venge venge kora ke algorith bole.
+- serial/line dhore dhore jasche - linear
+- Binary search - binary mane 2 - array er moddhe serially & secuentially sajano ase.
+- 1st e majhamaji jaygay land krbe & dekhbe jake khujtechi se mid er value er cheye boro naki choto. boro hole dan e jabe r choto hole bam e jabe.
