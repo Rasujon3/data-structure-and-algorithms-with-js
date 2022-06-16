@@ -27,5 +27,11 @@
 - mala - suta diye connected.
 - ekadhik items,so list = era linked kora ase = linkedList.
 - 2 systems in linkedlist:- i. single(ekta dorja diye jaba), ii. double (samne pichone 2 dik ei jaite parba), iii. circular (golboithok-football khelar moto).
-- unique key diye ekta value rakho & dorkar hole ber kore nia aso.
-- while loop chalate hoy na, direct access pauya jay.
+
+# 5. Tree List (ulta-tree, shikor)
+
+- protita item ekekta node
+- kono ekta node er children 2ta ba tar kom thake take binary tree bole.
+- binary search tree - bame choto , dane boro thakbe. sorboccho 2ta children thakbe, tar beshi thakte parbe na.
+- depth search, breath search
+- graph - google map er moto, vertices, edge => short path
