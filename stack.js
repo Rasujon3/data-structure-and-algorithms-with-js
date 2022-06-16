@@ -1,4 +1,4 @@
-// plate, montri, lifo, ctrl z
+// plate, montri, lifo, ctrl z,, friend rqst, chat box
 class Stack {
   constructor() {
     this.stack = [];
