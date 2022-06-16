@@ -21,3 +21,11 @@
 - key value er advance version holo - dictionary
 - unique key diye ekta value rakho & dorkar hole ber kore nia aso.
 - while loop chalate hoy na, direct access pauya jay.
+
+# 4. Linked List (manob-bondhon, human chain)
+
+- mala - suta diye connected.
+- ekadhik items,so list = era linked kora ase = linkedList.
+- 2 systems in linkedlist:- i. single(ekta dorja diye jaba), ii. double (samne pichone 2 dik ei jaite parba), iii. circular (golboithok-football khelar moto).
+- unique key diye ekta value rakho & dorkar hole ber kore nia aso.
+- while loop chalate hoy na, direct access pauya jay.
