@@ -52,3 +52,10 @@
 
 - ekta ekta kore dhorbe & sajabe
 - beshi time lage.
+
+# 8. Time Complexity ()
+
+- linear search - 1 ta barale 1bar cholbe - somanupatik - linear - O(n)
+- bubble sort - 10 ta thakle 10 bar cholbe - O(n^2)
+- dictionary - jeyei dhore felbe - O(1)
+- recursive - factorial - O(2^n)
