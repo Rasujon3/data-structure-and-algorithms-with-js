@@ -42,3 +42,7 @@
 - serial/line dhore dhore jasche - linear
 - Binary search - binary mane 2 - array er moddhe serially & secuentially sajano ase.
 - 1st e majhamaji jaygay land krbe & dekhbe jake khujtechi se mid er value er cheye boro naki choto. boro hole dan e jabe r choto hole bam e jabe.
+
+# 6. bubble Sort (kromanusare sajaba)
+
+-
