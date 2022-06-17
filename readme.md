@@ -45,4 +45,10 @@
 
 # 6. bubble Sort (kromanusare sajaba)
 
--
+- ekta ekta kore dhorbe & sajabe
+- beshi time lage.
+
+# 7. Selection Sort (kromanusare sajaba)
+
+- ekta ekta kore dhorbe & sajabe
+- beshi time lage.
